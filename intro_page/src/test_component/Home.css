@@ -1,0 +1,29 @@
+*{
+    margin: 0px;
+    padding:0px;
+    box-sizing: border-box;
+    scroll-behavior: unset;
+}
+.search_container{
+    height: 500px;
+    margin:-20px auto auto auto;
+    background-image: url("https://d2ile4x3f22snf.cloudfront.net/wp-content/uploads/sites/223/2017/12/23023854/Swimming-Pool-21-1400x700.jpg");
+    /* background-image: url("C:\Users\royal\OneDrive\Desktop\React\react\aakash-hotal-app\src\swimming_pool_hotel_relax-wallpaper-1600x480.jpg"); */
+
+    background-size:cover;
+    background-repeat: no-repeat;
+    text-align: center;
+
+}
+.heading{
+
+    color: rgb(245, 211, 19);
+    text-shadow: 10px 10px 5px #140707;
+    font-size: 100px;
+    font-weight: bolder;
+    font-family: 'Lobster', cursive;
+    padding-top: 50px;
+ }
+
+ 
+ 
